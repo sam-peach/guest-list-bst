@@ -1,0 +1,15 @@
+{
+  "name": "bst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bst.js",
+  "scripts": {
+    "test": "testem"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testem": "^2.16.0"
+  }
+}
